@@ -12,7 +12,4 @@ A Java-based Car Rental System demonstrating OOP principles.
 - Test cases
 
 
-## How to Run
-```bash
-javac *.java
-java Main# ASSIGN1
+
